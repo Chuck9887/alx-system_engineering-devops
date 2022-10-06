@@ -1,2 +1,1 @@
-Seccond readme for dir
-
+‘This repository contains solutions to shell tasks’
